@@ -2,7 +2,7 @@ public class ConsoleApp {
 
     public static void main(String[] args) {
         String symbol = "*";
-
+/ннллннл
         int width = 10;
         int height = 5;
 
